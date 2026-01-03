@@ -32,7 +32,7 @@ Zero setup · 24/7 online · Lightning fast
   </a>
   <br><br>
   <a href="https://youtu.be/meE_EWEuyGk?si=gJxaiFZlEMluL1oB">
-    <img src="https://img.shields.io/badge/🎥 View Tutorial (YouTube)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="View Tutorial"/>
+    <img src="https://img.shields.io/badge/🎥 View Tutorial (discord)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="View Tutorial"/>
   </a>
 </div>
 
@@ -50,7 +50,7 @@ Full control · Unlimited resources · For serious devs
 
 <br>
 
-### 💎 Katabump Elite Panel (Private & Fastest)
+### 💎 KATABUMP ELITE PANEL (Private & Fastest)
 
 Only the real ones know about this panel 
 
@@ -67,7 +67,7 @@ Only the real ones know about this panel
 Want to run it locally or on your own server? Grab the complete package instantly!
 
 <div align="center">
-  <a href="https://github.com/xmdloft23/loft-quantum/archive/refs/heads/main.zip">
+  <a href="https://github.com/Princeton2003/PRINCE--XMD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/📦 DOWNLOAD HERE-ff0000?style=for-the-badge&logo=dropbox&logoColor=white" height="55"/>
   </a>
   <br><br>
