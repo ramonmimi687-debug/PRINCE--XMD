@@ -1,5 +1,4 @@
 
-!-- Full Enhanced & Color-Boosted README (No Lines Missing, No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
 
 <div align="center">
   <a>
@@ -10,6 +9,6 @@
 
 <div align="center">
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
-    DARKZONE-MD WHATSAPP BOT
+    𝙿𝚁𝙸𝙽𝙲𝙴 𝚇𝙼𝙳 𝙱𝙾𝚃
   </h1>
 </div>
